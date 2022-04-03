@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse Pong", "Reverse Pong.vcxproj", "{99CD7AB8-0500-40D1-8225-2A2E99195D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99CD7AB8-0500-40D1-8225-2A2E99195D05}.Debug|x64.ActiveCfg = Debug|x64
+		{99CD7AB8-0500-40D1-8225-2A2E99195D05}.Debug|x64.Build.0 = Debug|x64
+		{99CD7AB8-0500-40D1-8225-2A2E99195D05}.Debug|x86.ActiveCfg = Debug|Win32
+		{99CD7AB8-0500-40D1-8225-2A2E99195D05}.Debug|x86.Build.0 = Debug|Win32
+		{99CD7AB8-0500-40D1-8225-2A2E99195D05}.Release|x64.ActiveCfg = Release|x64
+		{99CD7AB8-0500-40D1-8225-2A2E99195D05}.Release|x64.Build.0 = Release|x64
+		{99CD7AB8-0500-40D1-8225-2A2E99195D05}.Release|x86.ActiveCfg = Release|Win32
+		{99CD7AB8-0500-40D1-8225-2A2E99195D05}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E53802-DE06-467A-8578-D8665634B913}
+	EndGlobalSection
+EndGlobal
